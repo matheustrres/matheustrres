@@ -8,7 +8,8 @@ I am 21 years old and a resident of Rio de Janeiro, Brazil. Back-end development
 
 ### 📬 Connect with Me
 - LinkedIn: [Matheus Torres][linkedin]
+- Portfólio: [Repositórios][portfolio]
 - E-mail: torr7s.contact@gmail.com
 
 [linkedin]: https://www.linkedin.com/in/matheus-torres-386b351a2/
-[Portfólio]: https://github.com/Torr7s?tab=repositories
+[portfolio]: https://github.com/Torr7s?tab=repositories
