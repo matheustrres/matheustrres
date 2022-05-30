@@ -1,16 +1,14 @@
-### Hi there 👋
+# Howdy, there! My name is Matheus Torres! 👋
 
-<!--
-**Torr7s/Torr7s** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I am 21 years old and a resident of Rio de Janeiro, Brazil. Back-end development is my passion, I enjoy working with troubleshooting, learning about scalability, apis security and infrastructure.
 
-Here are some ideas to get you started:
+- 🌱 I am always studying and learning.
+- ⚙️ Mastering: **Typescript**, **PostgreSQL**, **MongoDb**, **ORMs**, **Rest**/**Restful Apis**
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+### 📬 Connect with Me
+- LinkedIn: [Matheus Torres][linkedin]
+- E-mail: torr7s.contact@gmail.com
+
+[linkedin]: https://www.linkedin.com/in/matheus-torres-386b351a2/
+[Portfólio]: https://github.com/Torr7s?tab=repositories
