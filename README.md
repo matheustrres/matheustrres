@@ -1,9 +1,10 @@
 # Howdy, there! My name is Matheus Torres! 👋
 
-I am 21 years old and a resident of Rio de Janeiro, Brazil. Back-end development is my passion, I enjoy working with troubleshooting, learning about scalability, apis security and infrastructure.
+I am 21 years old and a resident of Rio de Janeiro, Brazil. Back-end development is my passion, I enjoy working with troubleshooting, learning about scalability, apis security and infrastructure. I am currently doing my bachelor's degree in Information Systems at the Universidade Veiga de Almeida. 
 
 - 🌱 I am always studying and learning.
 - ⚙️ Mastering: **Typescript**, **PostgreSQL**, **MongoDb**, **ORMs**, **Rest**/**Restful Apis**
+
 
 
 ### 📬 Connect with Me
