@@ -12,5 +12,14 @@ I am 21 years old and a resident of Rio de Janeiro, Brazil. Back-end development
 - Portfólio: [Repositórios][portfolio]
 - E-mail: torr7s.contact@gmail.com
 
+
+
+### 📬 Main stacks
+- Node.js, Javascript, Typescript (Express, NestJs)
+- PostgreSQL, MongoDb
+- PrismaIO, TypeORM, Knex
+- Docker, docker-compose, Git, WSL2
+- Clean Code, Clean Architeture, SOLID
+
 [linkedin]: https://www.linkedin.com/in/matheus-torres-386b351a2/
 [portfolio]: https://github.com/Torr7s?tab=repositories
