@@ -13,8 +13,6 @@ I am 21 years old and a resident of Rio de Janeiro, Brazil. Back-end development
 - E-mail: torr7s.contact@gmail.com
 
 
-<a href="https://app.daily.dev/DailyDevTips"><img src="https://github.com/Torr7s/Torr7s/blob/main/devcard.svg" width="400" alt="Torr7s's Dev Card"/></a>
-
 
 ### 📬 Main stacks
 - Node.js, Javascript, Typescript (Express, NestJs)
@@ -25,3 +23,5 @@ I am 21 years old and a resident of Rio de Janeiro, Brazil. Back-end development
 
 [linkedin]: https://www.linkedin.com/in/matheus-torres-386b351a2/
 [portfolio]: https://github.com/Torr7s?tab=repositories
+
+<a href="https://app.daily.dev/DailyDevTips"><img src="https://github.com/Torr7s/Torr7s/blob/main/devcard.svg" width="400" alt="Torr7s's Dev Card"/></a>
