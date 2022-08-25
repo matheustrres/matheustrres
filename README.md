@@ -13,7 +13,7 @@ I am 21 years old and a resident of Rio de Janeiro, Brazil. Back-end development
 - E-mail: torr7s.contact@gmail.com
 
 
-<a href="https://app.daily.dev/DailyDevTips"><img src="https://github.com/Torr7s/Torr7s/blob/master/devcard.svg" width="400" alt="Torr7s's Dev Card"/></a>
+<a href="https://app.daily.dev/DailyDevTips"><img src="https://github.com/Torr7s/Torr7s/blob/main/devcard.svg" width="400" alt="Torr7s's Dev Card"/></a>
 
 
 ### 📬 Main stacks
