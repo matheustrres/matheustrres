@@ -15,13 +15,14 @@ I am 21 years old and a resident of Rio de Janeiro, Brazil. Back-end development
 
 
 ### 📬 Main stacks
-- Node.js, Javascript, Typescript (Express, NestJs)
-- PostgreSQL, MongoDb
-- PrismaIO, TypeORM, Knex
-- Docker, docker-compose, Git, WSL2
-- Clean Code, Clean Architeture, SOLID
+- Node.js 
+- JS, TS (Express, NestJs)
+- SQL (PostgreSQL)
+- NoSQL (Mongoose, Firestore)
+- ORMs (Prisma, TypeORM)
+- Clean Code, Clean Arch., SOLID
 
-[linkedin]: https://www.linkedin.com/in/matheus-torres-386b351a2/
+[linkedin]: https://www.linkedin.com/in/torr7s/
 [portfolio]: https://github.com/Torr7s?tab=repositories
 
 <a href="https://app.daily.dev/DailyDevTips"><img src="https://github.com/Torr7s/Torr7s/blob/main/devcard.svg" width="400" alt="Torr7s's Dev Card"/></a>
