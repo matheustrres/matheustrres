@@ -15,12 +15,10 @@ I am 21 years old and a resident of Rio de Janeiro, Brazil. Back-end development
 
 
 ### 📬 Main stacks
-- Node.js 
-- JS, TS (Express, NestJs)
-- SQL (PostgreSQL)
-- NoSQL (Mongoose, Firestore)
-- ORMs (Prisma, TypeORM)
-- Clean Code, Clean Arch., SOLID
+- Node.js, Javascript, Typescript
+- Main frameworks: Express, NestJs, OvernightJs
+- SQL: PostgreSQL, NoSQL: Mongoose, Firestore
+- ORMs: Prisma, TypeORM
 
 [linkedin]: https://www.linkedin.com/in/torr7s/
 [portfolio]: https://github.com/Torr7s?tab=repositories
