@@ -1,24 +1,17 @@
 # Howdy, there! My name is Matheus Torres! 👋
 
-I am 21 years old and a resident of Rio de Janeiro, Brazil. Back-end development is my passion, I enjoy working with troubleshooting, learning about scalability, apis security and infrastructure. I am currently doing my bachelor's degree in Information Systems at the Universidade Veiga de Almeida. 
+I'm 21 years old and a resident of Rio de Janeiro, Brazil. I love to work with back-end, learn about APIs integrations, scalability, infrastructure, and so on. I am currently doing my bachelor's degree in Information Systems at the Universidade Veiga de Almeida. 
 
-- 🌱 I am always studying and learning.
-- ⚙️ Mastering: **Typescript**, **SQL**, **Firestore**
+### 🌐 Connect with Me:
+- LinkedIn: **[Matheus Torres][linkedin]**
+- E-mail: **torr7s.contact@gmail.com**
 
-
-
-### 📬 Connect with Me
-- LinkedIn: [Matheus Torres][linkedin]
-- Portfólio: [Repositórios][portfolio]
-- E-mail: torr7s.contact@gmail.com
-
-
-
-### 📬 Main stacks
+### 💻 Most used technologies:
 - Node.js, Javascript, Typescript
-- Main frameworks: Express, NestJs, OvernightJs
-- SQL: PostgreSQL, NoSQL: Mongoose, Firestore
-- ORMs: Prisma, TypeORM
+- Express.js, Nestjs, OvernightJs, Redis
+- Docker, docker-compose, git, github
+- Mongoose, Firestore, PostgreSQL
+- Prisma, TypeORM
 
 [linkedin]: https://www.linkedin.com/in/torr7s/
 [portfolio]: https://github.com/Torr7s?tab=repositories
