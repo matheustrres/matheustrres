@@ -4,7 +4,7 @@ I'm 22 years old and a resident of Rio de Janeiro, Brazil. I love to work with b
 
 ### 🌐 Connect with Me:
 - LinkedIn: **[Matheus Torres][linkedin]**
-- E-mail: **torr7s.contact@gmail.com**
+- E-mail: **matheustrres.rj@gmail.com**
 
 ### 💻 Most used technologies:
 - Node.js, Javascript, Typescript
