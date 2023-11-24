@@ -17,5 +17,5 @@ I'm 22 years old and a resident of Rio de Janeiro, Brazil. I love to work with b
 - DevOps (Docker, Git, Github, Azure SQL, Azure App Services)
 - TDD (unit-tests)
 
-[linkedin]: https://www.linkedin.com/in/torr7s/
+[linkedin]: https://www.linkedin.com/in/matheustrres/
 [portfolio]: https://github.com/Torr7s?tab=repositories
