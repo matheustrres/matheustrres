@@ -7,15 +7,14 @@ I'm 22 years old and a resident of Rio de Janeiro, Brazil. I love to work with b
 - E-mail: **matheustrres.rj@gmail.com**
 
 ### 💻 Most used technologies:
-- Node.js, Javascript, Typescript (Express, NestJS*, OvernightJS)
-- DB: (Mongoose*, Firebase, PostgreSQL*, MySQL)
-- ORMs (Prisma, TypeORM*)
-- Docs: Gitbook, OpenAPI Swagger, Postman
-- REST/RESTFul APIs
-- APIs Security (CORS, Session, JWT Auth., Data Encryption &Validation, Logging, Rate Limiting)
-- Design Patterns, SOLID, Clean Code, Clean Architecture
-- DevOps (Docker, Git, Github, Azure SQL, Azure App Services)
-- TDD (unit-tests)
+- Node.js, Javascript, Typescript
+- Mongoose, Firebase, PostgreSQL, MySQL
+- Prisma, TypeORM
+- Gitbook, OpenAPI Swagger, Postman
+- APIs Security (CORS, Session, JWT Auth., Data Encryption & Validation, Logging, Rate Limiting)
+- Design Patterns, SOLID, Clean Code, Clean Architecture, RESTful APIs
+- Docker, Git, Github, Azure SQL, Azure App Services
+- Unit & E2E tests
 
 [linkedin]: https://www.linkedin.com/in/matheustrres/
-[portfolio]: https://github.com/Torr7s?tab=repositories
+[portfolio]: https://github.com/matheustrres?tab=repositories
