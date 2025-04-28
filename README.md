@@ -1,4 +1,4 @@
-<h2 align="left">Hi 👋! My name is Matheus Torres and I'm a Software Developer from Brazil.</h2>
+<h2 align="left">Hi 👋! My name is Matheus Torres and I'm a Software Engineer from Brazil.</h2>
 
 ###
 
@@ -43,12 +43,7 @@
   <img src="https://skillicons.dev/icons?i=firebase" height="30" alt="firebase logo"  />
 </div>
 
-###
-
 <div align="center">
-  <a href="https://www.twitch.tv/m47hs_" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Twitch&logo=twitch&label=&color=9146FF&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="twitch logo"  />
-  </a>
   <a href="https://discord.com/channels/@me/732436058456719370" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="discord logo"  />
   </a>
@@ -57,10 +52,4 @@
   </a>
 </div>
 
-###
-
 <br clear="both">
-
-<img src="https://raw.githubusercontent.com/matheustrres/matheustrres/output/snake.svg" alt="Snake animation" />
-
-###
